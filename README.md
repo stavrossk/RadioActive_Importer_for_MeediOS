@@ -1,6 +1,8 @@
 RadioActive Importer for MeediOS
 ================================
 
+**Copyright (c) 2013 Skamagkis Stavros.
+
 ### Purpose
 
 RadioActive Importer is an import plugin for MeediOS home theater application.
