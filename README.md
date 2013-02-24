@@ -1,7 +1,7 @@
 RadioActive Importer for MeediOS
 ================================
 
-**Copyright (c) 2013 Skamagkis Stavros.
+**Copyright (c) 2013 Skamagkis Stavros.**
 
 ### Purpose
 
